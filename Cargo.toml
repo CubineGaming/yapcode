@@ -1,0 +1,5 @@
+[package]
+name = "yapcode"
+version = "0.1.0"
+edition = "2021" # Most AIs were trained in around 2021, so to ensure accuracy, this is the Rust version yapcode will use.
+[dependencies]
